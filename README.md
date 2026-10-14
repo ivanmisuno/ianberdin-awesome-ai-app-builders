@@ -50,6 +50,7 @@ Tools that generate native or cross-platform mobile apps with AI.
 - [Draftbit](https://draftbit.com) — Visual and AI builder that generates React Native (Expo) apps for iOS, Android, and web, with AI agents backed by major models.
 - [FlutterFlow](https://flutterflow.io) — Visual builder that generates Flutter apps for iOS, Android, and web, with AI prompt-to-page, prompt-to-component, and image-to-component features.
 - [magically](https://magically.life) — AI builder that generates full-stack React Native iOS and Android apps from a prompt, with auth, payments, and a Supabase database.
+- [Modaal](https://modaal.dev/) — AI builder for Mac that generates native iOS apps in SwiftUI and Android apps in Jetpack Compose from a spec the user approves, using the user's own Claude, ChatGPT/Codex, Gemini or Copilot plan.
 - [Newly](https://newly.app) — AI builder that generates React Native and Expo apps compiling to real native iOS and Android code, with a backend and source-code export.
 - [OnSpace AI](https://www.onspace.ai) — AI builder that generates cross-platform mobile and web apps from natural-language prompts with GitHub and code export and a Supabase backend.
 - [RapidNative](https://www.rapidnative.com) — AI builder that generates React Native and Expo screens for iOS, Android, and web from a prompt, with code export.
